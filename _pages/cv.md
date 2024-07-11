@@ -23,7 +23,7 @@ Work experience
   
 Skills
 ======
-* Languages: C, C++, Python, Java, JavaScript, React
+* Languages: C, C++, Python, Java, JavaScript, ReactJS, AngularJS
 * Concepts: CI/CD, SQL, NoSQL, System Design, Cloud Computing, Distributed Computing
 * Tools: Docker, Git, AWS, VirtualBox, VS code, Android Studio
 
