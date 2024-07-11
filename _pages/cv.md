@@ -26,3 +26,5 @@ Skills
 * Languages: C, C++, Python, Java, JavaScript, React
 * Concepts: CI/CD, SQL, NoSQL, System Design, Cloud Computing, Distributed Computing
 * Tools: Docker, Git, AWS, VirtualBox, VS code, Android Studio
+
+[View Full Resume](files/Kolli_Resume.pdf)
