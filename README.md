@@ -1,4 +1,4 @@
-# Portfolio page made using Github pages
+# Personal Blog page hosted on Github pages
 
 Used Academic Pages template for the design. ([Link](https://academicpages.github.io/))
 
