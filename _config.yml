@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Blog Home"
+title                    : "Home"
 title_separator          : " "
 name                     : &name "Sri Harrsha Kolli"
 description              : &description "Recent Master's graduate in Computer Science at University of Texas, Arlington"
