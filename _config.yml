@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "My Portfolio"
+title                    : "Blog Home"
 title_separator          : " "
-name                     : &name "Harrsha Kolli"
+name                     : &name "Sri Harrsha Kolli"
 description              : &description "Recent Master's graduate in Computer Science at University of Texas, Arlington"
 url                      : https://t1ppu.github.io 
 baseurl                  : ""
@@ -22,7 +22,7 @@ repository               : "t1ppu/t1ppu.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Harrsha Kolli"
+  name             : "Sri Harrsha Kolli"
   pronouns         : # example: "she/her"  
   bio              : "Aspiring Software developer"
   location         : "Dallas, Texas"

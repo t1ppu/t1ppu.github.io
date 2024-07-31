@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Harrsha Kolli"
+title: "Sri Harrsha Kolli"
 author_profile: true
 redirect_from: 
   - /about/
