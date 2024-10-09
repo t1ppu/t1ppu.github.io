@@ -16,15 +16,19 @@ Education
 
 Work experience
 ======
-* Spring 2022: Network Engineer
+* Graduate Teaching Assistant                                           Aug 2023 – May 2024
+  * University of Texas at Arlington
+
+* Software Engineer Intern                                              Sept 2021 – July 2022
   * Ujjwal Systems
-  * Duties includes: Enhancing website design, managing and optimizing network related hardware, executing server maintanenance procedures.
 
   
 Skills
 ======
-* Languages: C, C++, Python, Java, JavaScript, ReactJS, AngularJS
-* Concepts: CI/CD, SQL, NoSQL, System Design, Cloud Computing, Distributed Computing
-* Tools: Docker, Git, AWS, VirtualBox, VS code, Android Studio
+* Programming Languages: Python, C++, Java, JavaScript, PHP, Typescript
+* Frameworks and Libraries: React.js, AngularJS, Node.js, Laravel, Spring boot, Pyautogui, Bootstrap
+* Tools and Technologies: SQL, Apache Hadoop, Spring, NoSQL (MongoDB), Spring, AWS, Unit testing (Junit
+and Mockito), RESTful APIs, Microservices
+* Version Control: Git, Github Actions, Docker, Jenkins, Kubernetes
 
 [View Full Resume](../files/Kolli_Resume.pdf)
