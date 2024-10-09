@@ -16,10 +16,10 @@ Education
 
 Work experience
 ======
-* Graduate Teaching Assistant                                           Aug 2023 – May 2024
+* Graduate Teaching Assistant                                           (Aug 2023 – May 2024)
   * University of Texas at Arlington
 
-* Software Engineer Intern                                              Sept 2021 – July 2022
+* Software Engineer Intern                                              (Sept 2021 – July 2022)
   * Ujjwal Systems
 
   
