@@ -25,10 +25,9 @@ Work experience
   
 Skills
 ======
-* Programming Languages: Python, C++, Java, JavaScript, PHP, Typescript
-* Frameworks and Libraries: React.js, AngularJS, Node.js, Laravel, Spring boot, Pyautogui, Bootstrap
-* Tools and Technologies: SQL, Apache Hadoop, Spring, NoSQL (MongoDB), Spring, AWS, Unit testing (Junit
-and Mockito), RESTful APIs, Microservices
-* Version Control: Git, Github Actions, Docker, Jenkins, Kubernetes
+* Programming Languages: Python, C++, Java, JavaScript, PHP, Typescript Frameworks and Libraries: React.js, AngularJS, Node.js, Laravel, Spring, Pyautogui, Bootstrap
+* Tools and Technologies: SQL, Apache Hadoop, Apache Kafka, Gradle, NoSQL (MongoDB), BigQuery, PySpark, AWS, RESTful APIs, Microservices, JWT, Power BI 
+* Version Control and CI/CD: Git, Github Actions, Docker, Jenkins, Kubernetes 
+* Testing: Junit, Selenium, Postman, Pytest
 
 [View Full Resume](../files/Kolli_Resume.pdf)
