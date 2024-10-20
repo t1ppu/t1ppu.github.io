@@ -25,7 +25,8 @@ Work experience
   
 Skills
 ======
-* Programming Languages: Python, C++, Java, JavaScript, PHP, Typescript Frameworks and Libraries: React.js, AngularJS, Node.js, Laravel, Spring, Pyautogui, Bootstrap
+* Programming Languages: Python, C++, Java, JavaScript, PHP, Typescript 
+* Frameworks and Libraries: Django, Flask, React.js, AngularJS, Node.js, Laravel, Spring, Pyautogui, Bootstrap
 * Tools and Technologies: SQL, Apache Hadoop, Apache Kafka, Gradle, NoSQL (MongoDB), BigQuery, PySpark, AWS, RESTful APIs, Microservices, JWT, Power BI 
 * Version Control and CI/CD: Git, Github Actions, Docker, Jenkins, Kubernetes 
 * Testing: Junit, Selenium, Postman, Pytest
