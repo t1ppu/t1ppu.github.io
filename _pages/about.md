@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-Aspiring Software Developer. Tech enthusiast. I write about latest breakthroughs that really caught my eye.
+Aspiring Software Developer. Tech enthusiast. I write about latest breakthroughs in tech that caught my eye.

@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Home"
 title_separator          : " "
 name                     : &name "Sri Harrsha Kolli"
-description              : &description "Recent Master's graduate in Computer Science at University of Texas, Arlington"
+description              : &description "Master's graduate in Computer Science at University of Texas, Arlington"
 url                      : https://t1ppu.github.io 
 baseurl                  : ""
 repository               : "t1ppu/t1ppu.github.io"
