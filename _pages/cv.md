@@ -16,6 +16,8 @@ Education
 
 Work experience
 ======
+* Research Assistant                                           (June 2024 – Present)
+  * University of Texas at Arlington
 * Graduate Teaching Assistant                                           (Aug 2023 – May 2024)
   * University of Texas at Arlington
 
