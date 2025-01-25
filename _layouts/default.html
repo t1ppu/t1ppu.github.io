@@ -40,17 +40,15 @@ layout: compress
     <script>
       document.addEventListener("DOMContentLoaded", function () {
         const background = document.querySelector('body');
+        let lastX = 0, lastY = 0;
     
-        document.addEventListener('mousemove', (e) => {
-          const { clientX, clientY } = e;
-            
-          // Get the width and height of the window
+        function updateBackgroundPosition() {
           const windowWidth = window.innerWidth;
           const windowHeight = window.innerHeight;
     
           // Calculate how far the mouse is from the center of the screen
-          const moveX = (clientX / windowWidth) * 100;
-          const moveY = (clientY / windowHeight) * 100;
+          const moveX = (lastX / windowWidth) * 100;
+          const moveY = (lastY / windowHeight) * 100;
     
           // Reduce the movement by a factor (e.g., 10)
           const sensitivity = 10;
@@ -59,6 +57,15 @@ layout: compress
     
           // Apply the adjusted movement to the background position
           background.style.backgroundPosition = `${adjustedMoveX}% ${adjustedMoveY}%`;
+        }
+    
+        // Use requestAnimationFrame to update only when the browser is ready for a repaint
+        document.addEventListener('mousemove', (e) => {
+          lastX = e.clientX;
+          lastY = e.clientY;
+    
+          // Call the function to update the background position
+          requestAnimationFrame(updateBackgroundPosition);
         });
       });
     </script>
