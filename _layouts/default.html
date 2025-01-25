@@ -38,26 +38,28 @@ layout: compress
     {% include scripts.html %}
 
     <script>
-      const background = document.querySelector('body');
-
-      document.addEventListener('mousemove', (e) => {
-        const { clientX, clientY } = e;
-        
-        // Get the width and height of the window
-        const windowWidth = window.innerWidth;
-        const windowHeight = window.innerHeight;
-
-        // Calculate how far the mouse is from the center of the screen
-        const moveX = (clientX / windowWidth) * 100;
-        const moveY = (clientY / windowHeight) * 100;
-
-        // Reduce the movement by a factor (e.g., 10)
-        const sensitivity = 10;
-        const adjustedMoveX = moveX / sensitivity;
-        const adjustedMoveY = moveY / sensitivity;
-
-        // Apply the adjusted movement to the background position
-        background.style.backgroundPosition = `${adjustedMoveX}% ${adjustedMoveY}%`;
+      document.addEventListener("DOMContentLoaded", function () {
+        const background = document.querySelector('body');
+    
+        document.addEventListener('mousemove', (e) => {
+          const { clientX, clientY } = e;
+            
+          // Get the width and height of the window
+          const windowWidth = window.innerWidth;
+          const windowHeight = window.innerHeight;
+    
+          // Calculate how far the mouse is from the center of the screen
+          const moveX = (clientX / windowWidth) * 100;
+          const moveY = (clientY / windowHeight) * 100;
+    
+          // Reduce the movement by a factor (e.g., 10)
+          const sensitivity = 10;
+          const adjustedMoveX = moveX / sensitivity;
+          const adjustedMoveY = moveY / sensitivity;
+    
+          // Apply the adjusted movement to the background position
+          background.style.backgroundPosition = `${adjustedMoveX}% ${adjustedMoveY}%`;
+        });
       });
     </script>
 
