@@ -39,6 +39,7 @@ layout: compress
 
     <script>
       document.addEventListener("DOMContentLoaded", function () {
+        console.log("JavaScript loaded!");
         const background = document.querySelector('body');
         let lastX = 0, lastY = 0;
     
@@ -61,6 +62,7 @@ layout: compress
     
         // Use requestAnimationFrame to update only when the browser is ready for a repaint
         document.addEventListener('mousemove', (e) => {
+          console.log("mouse moved!");
           lastX = e.clientX;
           lastY = e.clientY;
     
