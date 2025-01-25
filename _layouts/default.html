@@ -9,6 +9,23 @@ layout: compress
   <head>
     {% include head.html %}
     {% include head/custom.html %}
+    <script>
+      document.addEventListener("DOMContentLoaded", () => {
+        let x, y;
+    
+        const updateBackgroundPosition = () => {
+            document.body.style.backgroundPosition = `${x * 50}px ${y * 50}px, ${x * 50}px ${y * 50}px`;
+        };
+    
+        document.addEventListener("mousemove", (event) => {
+            x = event.clientX / window.innerWidth;
+            y = event.clientY / window.innerHeight;
+    
+            // Use requestAnimationFrame to optimize the update
+            requestAnimationFrame(updateBackgroundPosition);
+        });
+    });
+  </script>
   </head>
 
   <body>

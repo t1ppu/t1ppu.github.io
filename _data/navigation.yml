@@ -3,6 +3,9 @@ main:
   - title: "Blog"
     url: /year-archive/
     
-  - title: "Resume"
+  - title: "Skills"
     url: /cv/
+
+  - title: "Projects"
+    url: /projects/
     
