@@ -41,7 +41,7 @@ redirect_from:
 
   <div class="project-card">
     <img src="../images/project5.png" alt="Auto-Miscrits" class="project-image">
-    <h3>Project 5: <strong>Auto-Miscrits</strong></h3>
+    <h3><strong>Auto-Miscrits</strong></h3>
     <p><strong>Technologies Used:</strong> Python, Selenium, Web Scraping, Automation, Pyautogui, easyOCR </p>
     <p><a href="https://github.com/t1ppu/auto-miscrits" target="_blank">View Project</a></p>
   </div>
