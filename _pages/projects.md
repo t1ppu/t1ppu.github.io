@@ -15,7 +15,7 @@ redirect_from:
     <img src="../images/project1.png" alt="Project 1" class="project-image">
     <h3><strong>Learning Management System</strong></h3>
     <p><strong>Technologies Used:</strong> React.js, CSS, Laravel (PHP), Git, MySQL, JWT</p>
-    <p><a href="sxk3354.uta.cloud" target="_blank">View Project</a></p>
+    <p><a href="https://sxk3354.uta.cloud" target="_blank">View Project</a></p>
   </div>
 
   <div class="project-card">
