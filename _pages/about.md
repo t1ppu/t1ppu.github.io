@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Sri Harrsha Kolli"
+title: "Just a Chill Guy"
 author_profile: true
 redirect_from: 
   - /about/
